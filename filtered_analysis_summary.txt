@@ -1,0 +1,11 @@
+Analysis Summary
+----------------
+Total Patients: 10
+Unique Email Domains: 10
+Mean Age: 38.9
+Condition Frequencies:
+- Flu: 3
+- Hypertension: 2
+- Diabetes: 1
+- Asthma: 2
+- Allergies: 2
